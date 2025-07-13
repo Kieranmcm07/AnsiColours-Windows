@@ -83,4 +83,8 @@ Contributions welcome! Please submit pull requests for:
 This project is licensed under the MIT License - see [LICENSE](https://github.com/Kieranmcm07/AnsiColours-Windows/blob/main/LICENSE.md)
 
 ### Created with ⚡ by Kieranmcm07
-https://img.shields.io/github/stars/kieranmcm07/AnsiColours-Windows?style=social
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Kieranmcm07/GitHub-Profile-README-Generator?style=social" />
+  <img src="https://img.shields.io/github/issues/Kieranmcm07/GitHub-Profile-README-Generator?color=purple" />
+  <img src="https://img.shields.io/github/license/Kieranmcm07/GitHub-Profile-README-Generator" />
+</p>
