@@ -1,6 +1,6 @@
 # ANSI Color Codes for Windows Batch Scripting
 
-![Colorful Command Prompt](https://raw.githubusercontent.com/kieranmcm07/ansicolors-windows/main/preview.png)
+![Colorful Command Prompt](https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&h=200&q=80)
 
 A demonstration of ANSI escape codes for adding colors and styles to your Windows Command Prompt batch scripts. This repository contains a ready-to-use script that showcases text formatting, foreground/background colors, and RGB gradients.
 
@@ -80,7 +80,7 @@ Contributions welcome! Please submit pull requests for:
 
 ## License
 
-This project is licensed under the MIT License - see [LICENSE]()
+This project is licensed under the MIT License - see [LICENSE](https://github.com/Kieranmcm07/AnsiColours-Windows/blob/main/LICENSE.md)
 
 ### Created with ⚡ by Kieranmcm07
-https://img.shields.io/github/stars/kieranmcm07/ansicolors-windows?style=social
+https://img.shields.io/github/stars/kieranmcm07/AnsiColours-Windows?style=social
